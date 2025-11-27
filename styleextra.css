@@ -1,0 +1,14 @@
+html{
+    background-color: gray;
+}
+
+h1{
+    border-style:groove;
+    border-radius: 10px;
+    border-width: 0.1cm;
+    border-color: plum;
+    background-color: plum;
+    color: gold;
+    text-align: center;   
+    padding: 1cm; 
+}
